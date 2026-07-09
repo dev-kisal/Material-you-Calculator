@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A clean, modern calculator built with Material 3 and Dynamic Color. Features real-time calculation previews, persistent history, and full responsiveness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
